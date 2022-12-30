@@ -1,0 +1,25 @@
+*{
+    background: rgb(84, 118, 192);
+}
+
+.my-div{
+    text-align: center;
+    background: azure;
+}
+.h1{
+    font-size: 50px;
+}
+.dropDown{
+    border-left: 4px black;
+    border-width: 2px;
+    margin-left: -5px;
+}
+.button{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.button:hover{
+    background-color: cadetblue;
+    color: white;
+}
